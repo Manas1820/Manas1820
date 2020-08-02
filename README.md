@@ -5,7 +5,7 @@
 
 <hr/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Manas1820&show_icons=true&include_all_commits=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Manas1820&show_icons=true&include_all_commits=true&show_owner=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas1820&theme=radical&hide=javascript,C)](https://github.com/anuraghazra/github-readme-stats)
 
 
