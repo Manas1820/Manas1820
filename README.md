@@ -1,5 +1,9 @@
 <h1 align="center" > Hi, I am Manas Gupta 👋</h1>
 
+![hello world](https://oms.systems/images/hello-world.jpg)
+
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Manas1820&show_icons=true&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas1820&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
