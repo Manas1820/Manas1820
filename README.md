@@ -1,7 +1,7 @@
 <h1 align="center" > Hi, I am Manas Gupta 👋</h1>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Manas1820&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas1820)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas1820&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 I am a computer science undergrad from Karnal,Haryana. Currently I am studying in __VIT Vellore__. I am __Deep Learning__ enthusiast.I also have interest in __Web Development__ using __Node Js__ & __Competitive Programming__(Just a beginner) .
