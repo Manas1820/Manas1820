@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center" > Hi, I am Manas Gupta 👋</h1>
+
+<hr/>
+
+[![Manas's github stats](https://github-readme-stats.vercel.app/api?username=Manas1820&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas1820&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Manas1820/Manas1820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
