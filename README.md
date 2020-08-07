@@ -1,18 +1,19 @@
 <h1 align="center" > Hi, I am Manas Gupta 👋</h1>
 
-![hello world](https://oms.systems/images/hello-world.jpg)
+<a href="https://www.linkedin.com/in/manas-gupta-253760192/">
+<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/manasgupta1820/">
+<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 
-<hr/>
+I am a computer science undergrad . Currently I am studying in __VIT Vellore__. I am __Deep Learning__ enthusiast.I also have interest in __Web Development__ using __Node Js__  &  __Competitive Programming__(Just a beginner) .
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Manas1820&show_icons=true&include_all_commits=true&show_owner=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas1820&theme=radical&hide=javascript,C)](https://github.com/anuraghazra/github-readme-stats)
-
-
-I am a computer science undergrad from Karnal,Haryana. Currently I am studying in __VIT Vellore__. I am __Deep Learning__ enthusiast.I also have interest in __Web Development__ using __Node Js__ & __Competitive Programming__(Just a beginner) .
-
-👯 I’m looking to collaborate on __Deep Learning__ projects.
-🤔 I’m looking for help with __Competitive Programming__ and __DSA__ .
+> 👯 I’m looking to collaborate on __Deep Learning__ projects.
+> 🤔 I’m looking for help with __Competitive Programming__ and __DSA__ .
+> 📫 Please email via __manasgupta1820@gmail.com__ to reach me.
 
 ## Languages Known 🚀 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
@@ -22,11 +23,14 @@ I am a computer science undergrad from Karnal,Haryana. Currently I am studying i
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## 🔗 Connect with me on :
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/manas-gupta-253760192/)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
+<hr/>
+<br/>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Manas1820&show_icons=true&include_all_commits=true&show_owner=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas1820&theme=radical&hide=javascript,C)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👀 visitor count
 
