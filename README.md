@@ -12,6 +12,8 @@
 
 I am a computer science undergrad . Currently I am studying in __VIT Vellore__. I am __Deep Learning__ enthusiast.I also have interest in __Web Development__ using __Node Js__  &  __Competitive Programming__(Just a beginner) .
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
 - 👯 I’m looking to collaborate on __Deep Learning__ projects.
 - 🤔 I’m looking for help with __Competitive Programming__ and __DSA__ .
 - 📫 Please email via __manasgupta1820@gmail.com__ to reach me.
@@ -25,10 +27,6 @@ I am a computer science undergrad . Currently I am studying in __VIT Vellore__. 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
-<hr/>
-<br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Manas1820&show_icons=true&include_all_commits=true&show_owner=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas1820&theme=radical&hide=javascript,C)](https://github.com/anuraghazra/github-readme-stats)
