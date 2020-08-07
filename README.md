@@ -8,6 +8,8 @@
 <img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br/>
+
 **Talking about Personal Stuffs:**
 
 I am a computer science undergrad . Currently I am studying in __VIT Vellore__. I am __Deep Learning__ enthusiast.I also have interest in __Web Development__ using __Node Js__  &  __Competitive Programming__(Just a beginner) .
@@ -15,7 +17,9 @@ I am a computer science undergrad . Currently I am studying in __VIT Vellore__. 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 - 👯 I’m looking to collaborate on __Deep Learning__ projects.
+- 🌱 I’m currently learning __DSA__.
 - 🤔 I’m looking for help with __Competitive Programming__ and __DSA__ .
+- 💬 Ask me about anything , Would love to answer them.✌
 - 📫 Please email via __manasgupta1820@gmail.com__ to reach me.
 
 **Languages and Tools:**
