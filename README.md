@@ -15,7 +15,7 @@ I am a computer science undergrad . Currently I am studying in __VIT Vellore__. 
 > 🤔 I’m looking for help with __Competitive Programming__ and __DSA__ .
 > 📫 Please email via __manasgupta1820@gmail.com__ to reach me.
 
-## Languages Known 🚀 
+** Languages Known 🚀 **
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
