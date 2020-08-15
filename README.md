@@ -15,7 +15,6 @@
 
 I am a computer science undergrad . Currently I am studying in __VIT Vellore__. I am __Deep Learning__ enthusiast.I also have interest in __Web Development__ using __Node Js__  &  __Competitive Programming__(Just a beginner) .
 
-#<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 
 - 👯 I’m looking to collaborate on __Deep Learning__ projects.
