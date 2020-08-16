@@ -37,6 +37,9 @@ I am a computer science undergrad . Currently I am studying in __VIT Vellore__. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas1820&theme=radical&hide=javascript,C)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-64210%20Lines%20of%20code-blue)
+
 ### 👀 visitor count
 
 <img src="https://profile-counter.glitch.me/Manas1820/count.svg" alt="Hello world" />
