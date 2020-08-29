@@ -19,7 +19,7 @@ I am a computer science undergrad . Currently I am studying in __VIT Vellore__. 
 
 - 👯 I’m looking to collaborate on __Deep Learning__ projects.
 - 🌱 I’m currently learning __App Dev__.
-- 🤔 I’m looking for help with __Competitive Programming__ and __App Dev__ .
+- 🤔 I’m looking for help with __Competitive Programming__ and __App Dev__ 
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 Please email via __manasgupta1820@gmail.com__ to reach me.
 
