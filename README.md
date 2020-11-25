@@ -44,7 +44,4 @@ I am a computer science undergrad . Currently I am studying in __VIT Vellore__. 
   
 </details>
 
-### 👀 visitor count
-
-<img src="https://profile-counter.glitch.me/Manas1820/count.svg" alt="Hello world" />
 
