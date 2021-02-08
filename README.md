@@ -39,7 +39,7 @@ I am a computer science undergrad . Currently I am studying in __VIT Vellore__. 
 
 <details>
   <summary>:zap: Github Stats</summary>  
-    ![Manas's github stats](https://github-readme-stats.vercel.app/api?username=manas1820&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7) 
+    ![Manas's github stats](https://github-readme-stats.vercel.app/api?username=manas1820&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)
 </details>
 
 
