@@ -36,8 +36,8 @@ I am a computer science undergrad . Currently I am studying in __VIT Vellore__. 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas1820&theme=radical&hide=javascript,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
-![Manas's github stats](https://github-readme-stats.vercel.app/api?username=manas1820&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)
-
+<details>
+  ![Manas's github stats](https://github-readme-stats.vercel.app/api?username=manas1820&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)
+</details>
 
 
