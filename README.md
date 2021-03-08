@@ -27,6 +27,8 @@ I am a computer science undergrad . Currently I am studying in __VIT Vellore__. 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas1820&theme=radical&hide=javascript,jupyter%20notebook)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas1820&theme=radical&hide=javascript,jupyter%20notebook) --> 
 
+<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manas1820&" alt="Manas1820" /></center>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Manas1820)  
