@@ -30,6 +30,6 @@ I am a computer science undergrad . Currently I am studying in __VIT Vellore__. 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas1820&theme=radical&hide=javascript,jupyter%20notebook) --> 
 
 <!--<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manas1820&" alt="Manas1820" /></center> -->
-[![manas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Manas1820&layout=compact&theme=synthwave&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![manas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Manas1820&theme=synthwave&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Manas1820)  
