@@ -32,4 +32,3 @@ I am a computer science undergrad . Currently I am studying in __VIT Vellore__. 
 <!--<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manas1820&" alt="Manas1820" /></center> -->
 [![manas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Manas1820&v=2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Manas1820)  
