@@ -9,9 +9,9 @@ I am a computer science undergrad . Currently I am studying in __VIT Vellore__. 
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.webp?cid=ecf05e478220743mdz89ca1vein8qeaq5nigls0tybjmbbjx&rid=giphy.webp" />
 
-- 👯 I’m looking to collaborate on __Deep Learning__ projects.
-- 🌱 I’m currently learning __App_Dev__.
-- 🤔 I’m looking for help with __Competitive Programming__ and __Firebase__.
+- 👯 I’m looking to collaborate on __Web Dev & App Dev__ projects.
+- 🌱 I’m currently learning __React__.
+- 🤔 I’m looking for help with __Competitive Programming__ and __Postgres__.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 Please email via __manasgupta1820@gmail.com__ to reach me.
 
