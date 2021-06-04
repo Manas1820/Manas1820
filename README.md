@@ -11,7 +11,7 @@ I am a computer science undergrad . Currently I am studying in __VIT Vellore__. 
 
 - 👯 I’m looking to collaborate on __Web Dev & App Dev__ projects.
 - 🌱 I’m currently learning __React__.
-- 🤔 I’m looking for help with __Competitive Programming__ and __Postgres__.
+- 🤔 I’m looking for help with __Adonis js__ and __Postgres__.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 Please email via __manasgupta1820@gmail.com__ to reach me.
 
