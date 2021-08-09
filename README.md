@@ -5,7 +5,7 @@
 
 **Talking about Personal Stuffs:**
 
-I am a computer science undergrad. Currently I am studying in __VIT Vellore__. I am __Deep Learning__ enthusiast. I also have interest in  __Backend__  &  __Competitive Programming__(Just a beginner) .
+I am a Developer. Currently I am studying in __VIT Vellore__. I am __Deep Learning__ enthusiast. I also have interest in  __Backend__  &  __Competitive Programming__(Just a beginner) .
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.webp?cid=ecf05e478220743mdz89ca1vein8qeaq5nigls0tybjmbbjx&rid=giphy.webp" />
 
