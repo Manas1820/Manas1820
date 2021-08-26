@@ -1,31 +1,75 @@
-<h1 align="center" > Hi, I am Manas Gupta 👋</h1>
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<br/>
-<br/>
+<h1 align="center"> नमस्ते (Namaste), I'm Manas Gupta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-**Talking about Personal Stuffs:**
-
-I am a Developer. Currently I am studying in __VIT Vellore__. I am __Deep Learning__ enthusiast. I also have interest in  __Backend__  &  __Competitive Programming__(Just a beginner) .
-
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.webp?cid=ecf05e478220743mdz89ca1vein8qeaq5nigls0tybjmbbjx&rid=giphy.webp" />
-
-- 👯 I’m looking to collaborate on __Server Side__ projects.
-- 🌱 I’m currently learning __ThreeJs__ & __CP__.
-- 🤔 I’m looking for help with __Adonis js__ and __Postgres__.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 Please email via __manasgupta1820@gmail.com__ to reach me.
-
-**Languages and Tools:**
-<br/>
-<br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
+<h3 align="center">I'm a Developer from India ❤</h3>
+  
+A developer🎯 from India. I'm passionate about Server Side Development.:bar_chart:. I like automating things, building pipelines, exploring new problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 App Dev, :new: Innovation and Automation :robot: 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manas1820&count_private=true&show_icons=true&theme=onedark)
+<img width="50%" align="right" alt="Github Image" src="https://github.com/Manas1820/Manas1820/blob/master/profile%20Image.svg" />
 
+- 🌱 I’m currently learning NodeJs, Competitive programming
+- 👯 I’m looking to collaborate on Machine Learning and basic Server Side Dev stuff
+- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/manasgupta1820/) 
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: Jack of all trades , Master of None ! 
+<br />
+
+
+## 👨‍💻 Languages and Tools
+
+<div align="center">
+  
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
+<img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+
+<br>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="60" width="60">
+<img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" height="60" width="60">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/postgres.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="60" width="60">
+<img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
+
+</div>
+
+<br >
+
+## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=Manas1820&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Manas1820&theme=dark" width="45%" >
+
+<br>
+
+<div align="center">
+
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/manas-gupta-253760192/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/manasgupta1820/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/manas.gupta.52438174/)
+[<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">](https://stackoverflow.com/users/16760059/manas-gupta)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
+
+</div>
+
+
+![](https://github.com/Manas1820/Manas1820/blob/master/footer.png)
