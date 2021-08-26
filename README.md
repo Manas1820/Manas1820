@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Developer from India ❤</h3>
   
-A developer🎯 from India. I'm passionate about Server Side Development.:bar_chart:. I like automating things, building pipelines, exploring new problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 App Dev, :new: Innovation and Automation :robot: 
+A developer🎯 from India. I'm passionate about Development.:bar_chart: and Innovation :construction:. I like automating things, building pipelines, exploring new problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 App Dev, :new: Innovation and Automation :robot: 
 
 
 <img width="50%" align="right" alt="Github Image" src="https://github.com/Manas1820/Manas1820/blob/master/profile%20Image.svg" />
