@@ -7,7 +7,7 @@
 A developer🎯 from India. I'm passionate about Development.:bar_chart: and Innovation :construction:. I like automating things, building pipelines, exploring new problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 App Dev, :new: Innovation and Automation :robot: 
 
 
-<img width="50%" align="right" alt="Github Image" src="https://github.com/Manas1820/Manas1820/blob/master/profile%20Image.svg" />
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/Manas1820/Manas1820/master/profile-first-pr-dark.svg" />
 
 - 🌱 I’m currently learning NodeJs, Competitive programming
 - 👯 I’m looking to collaborate on Machine Learning and basic Server Side Dev stuff
