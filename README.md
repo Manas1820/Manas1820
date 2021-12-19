@@ -9,7 +9,6 @@ A developer🎯 from India. I'm passionate about Development.:bar_chart: and Inn
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/Manas1820/Manas1820/master/profile-first-pr-dark.svg" />
 
-- 4⭐[Codechef](https://www.codechef.com/users/manas1820)
 - 🌱 I’m currently learning NodeJs, Competitive programming
 - 👯 I’m looking to collaborate on Machine Learning and basic Server Side Dev stuff
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/manasgupta1820/) 
