@@ -3,11 +3,12 @@
 <h1 align="center"> नमस्ते (Namaste), I'm Manas Gupta  ! </h1>
 
 <h3 align="center">I'm a Developer from India ❤</h3>
-  
+
+
+
 A developer🎯 from India. I'm passionate about Development.:bar_chart: and Innovation :construction:. I like automating things, building pipelines, exploring new problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 App Dev, :new: Innovation and Automation :robot: 
 
-
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/Manas1820/Manas1820/master/profile-first-pr-dark.svg" />
+<!--<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/Manas1820/Manas1820/master/profile-first-pr-dark.svg" /> -->
 
 - 🌱 I’m currently learning NodeJs, Competitive programming
 - 👯 I’m looking to collaborate on Machine Learning and basic Server Side Dev stuff
@@ -19,8 +20,10 @@ A developer🎯 from India. I'm passionate about Development.:bar_chart: and Inn
 
 ## 👨‍💻 Languages and Tools
 
+<br>
+
 <div align="center">
-  
+ 
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
@@ -31,7 +34,10 @@ A developer🎯 from India. I'm passionate about Development.:bar_chart: and Inn
 <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
 
+
 <br>
+
+
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="60" width="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" height="60" width="60">
@@ -44,6 +50,7 @@ A developer🎯 from India. I'm passionate about Development.:bar_chart: and Inn
 <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
 
 </div>
+
 
 <br >
 
