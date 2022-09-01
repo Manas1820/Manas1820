@@ -14,7 +14,7 @@ A developer🎯 from India. I'm passionate about Development.:bar_chart: and Inn
 - 👯 I’m looking to collaborate on Machine Learning and basic Server Side Dev stuff
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/manasgupta1820/) 
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- ⚡ Fun fact: Jack of all trades, Master of None ! 
 <br />
 
 
