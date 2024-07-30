@@ -6,7 +6,7 @@
 
 
 
-A developer🎯 from India. Passionate about development and innovation, I'm driven by a love for automating processes, building pipelines, and exploring new challenges to enhance efficiency and performance. I'm a strong advocate for open source, cloud computing, application development, innovation, and automation.
+Passionate about development and innovation, I'm driven by a love for automating processes, building pipelines, and exploring new challenges to enhance efficiency and performance. I'm a strong advocate for open source, cloud computing, application development, innovation, and automation.
 
 <!--<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/Manas1820/Manas1820/master/profile-first-pr-dark.svg" /> -->
 
