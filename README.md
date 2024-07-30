@@ -6,11 +6,11 @@
 
 
 
-A developer🎯 from India. I'm passionate about Development.:bar_chart: and Innovation :construction:. I like automating things, building pipelines, exploring new problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 App Dev, :new: Innovation and Automation :robot: 
+A developer🎯 from India. Passionate about development and innovation, I'm driven by a love for automating processes, building pipelines, and exploring new challenges to enhance efficiency and performance. I'm a strong advocate for open source, cloud computing, application development, innovation, and automation.
 
 <!--<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/Manas1820/Manas1820/master/profile-first-pr-dark.svg" /> -->
 
-- 🌱 I’m currently learning Rust, Competitive programming
+- 🌱 Currently learning Rust and exploring new technologies.
 - 👯 I’m looking to collaborate on Machine Learning and basic Server Side Dev stuff
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/manasgupta1820/) 
 - 😄 Pronouns: he/him/his
